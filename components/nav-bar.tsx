@@ -29,7 +29,9 @@ export function HeaderNav() {
     <header className="w-full flex items-center justify-between px-6 py-3 border-b bg-background/80 backdrop-blur">
       <div className="flex items-center gap-2">
         <Link href="/dashboard" className="flex items-center gap-2">
-          <div className="h-6 w-6 rounded-md border flex items-center justify-center text-xs">SF</div>
+          <div className="h-6 w-6 rounded-md border flex items-center justify-center text-xs">
+            <img src="./Logo.png" alt="Logo" className="p-[0.5px] rounded-md"/>
+          </div>
           <span className="font-medium">Snap-form</span>
         </Link>
       </div>

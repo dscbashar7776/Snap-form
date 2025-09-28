@@ -11,9 +11,8 @@ import { ThemeScript } from "@/components/theme-script"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Snap-Form",
+  description: "Created with Openlabs",
 }
 
 export default function RootLayout({
