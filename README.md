@@ -66,7 +66,7 @@ Users can create forms, edit existing ones, collect responses, and visualize ana
 2. Install dependencies:
 
    ```bash
-   pnpm install
+   bun install
    ```
 
 3. Configure environment variables:
@@ -78,7 +78,7 @@ Users can create forms, edit existing ones, collect responses, and visualize ana
 4. Run the development server:
 
    ```bash
-   pnpm dev
+   bun dev
    ```
 
 ---
