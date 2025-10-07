@@ -73,7 +73,6 @@ Users can create forms, edit existing ones, collect responses, and visualize ana
 
    * Database URL for PostgreSQL
    * Google OAuth client ID and secret
-   * Vercel object storage configuration
 
 4. Run the development server:
 
